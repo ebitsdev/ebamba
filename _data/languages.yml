@@ -1,9 +1,15 @@
 - language:
   idiom: English
-  level: Native
+  level: Fluent
 - language:
   idiom: French
+  level: Native
+- language:
+  idiom: Bulgarian
   level: Professional
 - language:
-  idiom: Spanish
-  level: Professional
+  idiom: Serbo-Croatian
+  level: Moderate
+- language:
+  idiom: Modern Greek
+  level: Beginner
