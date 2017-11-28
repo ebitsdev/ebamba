@@ -1,8 +1,30 @@
 - education:
   degree: MSc in Computer Science
-  university: University of London
-  time: 2011 - 2012
+  university: Strauer University, Rockville Campus, MD
+  time: 2010 - 2012
 - education:
-  degree: BSc in Applied Mathematics
-  university: Bristol University
-  time: 2007 - 2011
+  degree: BSc International Law and Relations
+  university: University Clement Ohridsky, Sofia, Bulgaria
+  time: 1992 - 1997
+- certification:
+  certificate: Certified Scrum Master
+  platform: Scrum Alliance, www.scrumalliance.org
+  time: December 2014 - 2016
+- professional courses and certificates:
+  platform: www.lynda.com
+  certificate: Objective-C Essential Training
+  time: August 2012
+  certificate: Foundations of Programming, Fundamentals
+  time: September 2011
+  certificate:  Drupal 6, onlinr presentation of data
+  time: June 2009
+- professional training:
+  training: Network training SSL VPN, VoIP, Windows 2000/2003 Active Directory migration, CISCO VPN security, IOM VPN Structure
+  location: Manila, Philippine
+  time: August 2005
+  training: CISCO router and VPN configuration
+  location: Dakar, Senegal
+  time: May 25-28, 2003
+  training: XML programming language and XSLT
+  location: Digital campus, University of Dakar, Senegal
+  time: April 2000
