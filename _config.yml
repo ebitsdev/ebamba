@@ -1,7 +1,7 @@
 # Site Settings
 title: Emmanuel Bamba
 url: 'https://ebitsdev.github.io'
-baseurl: '/online-cv' #change it according to your repository name
+baseurl: '/ebamba' #change it according to your repository name
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
 #style: styles-2
@@ -18,7 +18,8 @@ summary: 'Over 8 years of experience in dealing with air traffic control procedu
 experience in information technology working on both content design, development, and deployment, local and wide area 
 network planning and installation for the private and government sectors.
 Specifically designed, developed, and deployed web sites and applications, SharePoint applications or sites using 
-JavaScript and various open source libraries for over 13 years.'
+JavaScript and various open source libraries for over 13 years.
+Actively worked as a volunteer for several entities in the field of digital literacy and education in general.'
 #sidebar links
 email: ebamba@bitsnshine.com
 phone: 240 516 8080
