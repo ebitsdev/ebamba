@@ -1,15 +1,31 @@
 - experience:
-  role: Front-end Developer
+  role: Front-end Developer (SharePoint Developer)
   time: 2014 - Present
   company: 1st American Systems (FAA), Washington, D.C
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
+  details: "Over 10 years of web development with experience in HTML, CSS, SASS, LESS, JavaScript, PHP
+  Experience with Drupal Content Management System, Jekyll Static Site generator, Git, Node.js
+  Develop Microsoft SharePoint Web Applications, Documentum
+  Over 8 years providing support to the Air Traffic Procedures organization. My role with the organization has evolved greatly evolving as:
   <br> <br>
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-  architecto beatae vitae dicta sunt explicabo."
+  -	Computer Scientist (Front-End Developer) using REST Web services to develop several web applications to streamline internal management decision-making by developing user-friendly metric dashboards.
+  <br> <br>
+  -	Conduct research and analysis existing publications for Section 508 and WCAG 2.00 compliance implementation for over 4000 pages of air traffic procedures
+  <br> <br>
+  -	Lead the modernization of air traffic procedures publications for the directorate
+  <br> <br>
+  -	Deployment into production of major air traffic procedure orders
+  <br> <br>
+  -	Microsoft SharePoint Site Collection Administrator and Developer for the Air Traffic Procedures Directorate
+  <br> <br>
+  -	Scrum Master (Technical Project Lead)
+  <br> <br>
+  -	Content Lead with focus on content conversion from unstructured HTML to structured XML format
+  <br> <br>
+  -	Document Content Repository Administrator managing several thousand of air traffic publications
+  <br> <br>
+  -	Train internal customers using in-person or screencast recordings for faster adoption of developed solutions
+  <br> <br>
+  -	Agile IT project management with the scrum methodology, gather and breakdown user requirements into development tasks"
 - experience:
   role: Content Lead and Technical Project Manager
   time: 2012 - 2014
